@@ -24,7 +24,7 @@ You can also find my footprint in the projects under [98point6's GitHub repo raf
 
 ## 📜 Resume 
 
-You can view my detailed resume [here](your_resume_link.pdf). 
+You can view my detailed resume [here](https://github.com/thejamesmarq/thejamesmarq/blob/main/resume.pdf). 
 
 ## 📫 Get in Touch
 
