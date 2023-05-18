@@ -6,7 +6,7 @@ My forte lies in leveraging Python for my projects, although I'm also proficient
 
 🩺 I have a real passion for healthcare. 
 
-🔭 My notable work includes my contributions to DrachmAI, where I've been involved in building models, services, and features. Here are a couple of exciting projects I've worked on:
+🔭 My notable work includes my contributions to DrachmAI, where I've been involved in building models, services, and features. Here are a couple of exciting projects I'm actively working on:
 
 - [Epana](https://github.com/drachmai/epana) - Contextual reward models for text
 - [DrachmAI Web](https://github.com/drachmai/drachmai-web) - Landing page for DrachmAI
