@@ -8,8 +8,8 @@ My forte lies in leveraging Python for my projects, although I'm also proficient
 
 🔭 My notable work includes my contributions to DrachmAI, where I've been involved in building models, services, and features. Here are a couple of exciting projects I've worked on:
 
-- [Epana](https://github.com/drachmai/epana)
-- [DrachmAI Web](https://github.com/drachmai/drachmai-web)
+- [Epana](https://github.com/drachmai/epana) - Contextual reward models for text
+- [DrachmAI Web](https://github.com/drachmai/drachmai-web) - Landing page for DrachmAI
 
 You can also find my footprint in the projects under [98point6's GitHub repo rafastealth](https://github.com/rafastealth), which consist of private repositories from my past engagement with the company.
 
