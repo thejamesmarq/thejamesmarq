@@ -21,7 +21,10 @@ You can also find my footprint in the projects under [98point6's GitHub repo raf
 
 - **Languages**: Python, R, Java, Rust, JavaScript
 - **Libraries/Frameworks**: PyTorch, spaCy, HuggingFace, React
-- **Machine Learning**: Supervised and Unsupervised Learning, NLP, Deep Learning
+- **Machine Learning**: Traditional supervised/unsupervised ML, Reinforcment Learning (for more than just video games!), and generative models
+- **Cloud Platforms**: AWS and Azure primarily (production use), GCP and Heroku (personal projects)
+- **IaC**: Pulumi, CDK, ARM
+- **Ops**: Making all of the above actually work in production (CI/CD, scaling, monitoring, etc.)
 
 ## 📜 Resume 
 
