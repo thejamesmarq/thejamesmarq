@@ -1,16 +1,31 @@
-### Hi there 👋
+# 👋 Hi, I'm James Marquardt
 
-<!--
-**thejamesmarq/thejamesmarq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a seasoned Data Scientist and Machine Learning Engineer with a rich history in Software Engineering. My journey started in 2012, and I've been keen on exploring and innovating in this ever-evolving space since then.
 
-Here are some ideas to get you started:
+My forte lies in leveraging Python for my projects, although I'm also proficient in R, Java, Rust, React, and JavaScript. I've been fortunate to have my work impacting hundreds of thousands of people, offering me a rewarding experience as a developer. I've also led and optimized teams of data scientists and software engineers, helping projects and organizations reach their full potential.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🩺 I have a real passion for healthcare. 
+
+🔭 My notable work includes my contributions to DrachmAI, where I've been involved in building models, services, and features. Here are a couple of exciting projects I've worked on:
+
+- [Epana](https://github.com/drachmai/epana)
+- [DrachmAI Web](https://github.com/drachmai/drachmai-web)
+
+📰 I've been out of graduate school for some time and have focused all of my energy since then on building products that help real people, but I'm still proud of the research work I've done
+- Example1(link)
+
+You can also find my footprint in the projects under [98point6's GitHub repo rafastealth](https://github.com/rafastealth), which consist of private repositories from my past engagement with the company.
+
+## 🛠️ Technical Skills 
+
+- **Languages**: Python, R, Java, Rust, JavaScript
+- **Libraries/Frameworks**: PyTorch, spaCy, HuggingFace, React
+- **Machine Learning**: Supervised and Unsupervised Learning, NLP, Deep Learning
+
+## 📜 Resume 
+
+You can view my detailed resume [here](your_resume_link.pdf). 
+
+## 📫 Get in Touch
+
+You can reach me via [LinkedIn](https://www.linkedin.com/in/james-marquardt/) or [Email](jamarq@uw.edu).
