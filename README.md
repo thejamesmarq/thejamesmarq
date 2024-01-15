@@ -20,7 +20,7 @@ You can also find my footprint in the projects under [98point6's GitHub repo raf
 ## 🛠️ Technical Skills 
 
 - **Languages**: Python, R, Java, Rust, JavaScript
-- **Libraries/Frameworks**: PyTorch, spaCy, HuggingFace, React
+- **Libraries/Frameworks**: PyTorch, Tensorflow, JAX, spaCy, HuggingFace, React, Ray
 - **Machine Learning**: Traditional supervised/unsupervised ML, Reinforcment Learning (for more than just video games!), and generative models
 - **Cloud Platforms**: AWS and Azure primarily (production use), GCP and Heroku (personal projects)
 - **IaC**: Pulumi, CDK, ARM
